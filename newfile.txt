@@ -1,3 +1,7 @@
 hello world
 the second line
+<<<<<<< HEAD
 test 3
+=======
+This line was added by Sadie
+>>>>>>> 394a265c7b8e35c93e855c1eadf0249afd9f639d
